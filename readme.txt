@@ -19,7 +19,7 @@ In case you face any problem, contact us via the [Forums](https://wordpress.org/
 **SpiceForms** is a Drag and Drop Form Builder which lets you build Responsive Forms without coding.  
 It can help you create contact forms, online surveys, FeedBack Forms etc without writing a single line of code.  
 
- ** Here are a few reasons to use SpiceForms *(*
+** Here are a few reasons to use SpiceForms **
 * Build Responsive Forms without Coding
 * Manage Forms on Multiple Websites from a single dashboard.
 * Create Conditions Logic using Visual Rule Builder
@@ -64,6 +64,7 @@ Spice-forms currently support 10 field types.
 * Number Field
 
 **Powerful Drag and Drop Editor**
+
 With the SpiceForms editor, you can quickly create forms by dragging and dropping the fields. Here is what you can do via the editor
 
 * Quickly Add / Delete and Reorder the Field
