@@ -1,7 +1,7 @@
 === SpiceForms Form Builder ===
 Contributors: a.ankit, nareshsuman, renukaagarwal
 Donate link: http://spiceforms.com/
-Tags: form builder, contact form, form, forms, survey form, feedback form, event form, lead generation form, newsletter form, contact
+Tags: form builder, contact form, form, forms, survey form, feedback form, event form, lead generation form, newsletter form, contact, file upload form, file upload, newsletter form, membership form
 Requires at least: 3.3+
 Tested up to: 4.1
 Stable tag: 1.0
@@ -46,11 +46,13 @@ Here is a list of features supported
 * Field Validations
 * Styling Customization
 * Easy Form Embed and Publish
+* File Upload
 
 
 Lets talk about the features in detail.
 
 **Multiple Field Support**
+
 Spice-forms currently support 10 field types. 
 
 * Text Box
@@ -76,42 +78,59 @@ With the SpiceForms editor, you can quickly create forms by dragging and droppin
 * Add a Custom Error etc.
 
 **Conditional Rules**
+
 * You can easily create smart Forms with the conditional Rules. 
 * SpiceForms has a Visual Condition Builder which lets you Hide / Display form fields based on user input. 
 * You may create as many conditions / rules as you want. 
 
 
 **Notification Emails**
+
 * Instantly receive a Notification Email when someone fills out your Form. 
 * Send Notification to multiple Email Address
 * Receive the complete form submission data in the notification email.
 * Set a custom reply-to address
 
 **AutoResponders**
+
 Auto-responders are like notification mails for the users filling out the form. They support all features of Notification Mails
 
 **Conditional / Rule Based Routing**
+
 You can redirect a user to different url based on the form input.
 
 **Custom Thank you Message**
+
 You can also create a custom thank you message to display to users filling out the form. 
 
+**File Upload**
+
+* User can now ask for file uploads at the time of Form Submission
+
 **Form Styling Options**
+
 The Form Styling feature lets you customize the Form styling. Currently It is possible to Customize the
 
 **Form Background Color**
+
 * Font Size
 * Font Color
 * Button Text Size
 * Button Color
 
 **Submission Manager**
+
 Quickly Access all form submissions via the Submission Manager. 
 
+
+
+
 **RoadMap**
+
 This is just the start and we have lots of features in store. We plan to closely work with our users and create features based on user feedback.
 Here is a tentative list of features which we pln to develop in soming weeks / months
-* Development of File Upload field
+
+* Development of File Upload field (Completed)
 * Development of Survey related fields like Star Rating
 * Payment Gateway Integration
 * Integration with Various Newsletters Services
